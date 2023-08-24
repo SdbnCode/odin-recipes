@@ -1,1 +1,1 @@
-TEST TEST
+This project will be the beginning of my HTML journey. I hope to have created a website that is functioning properly by the end of this.
